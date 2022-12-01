@@ -14,9 +14,8 @@
         System.out.println("Podaj hasło");
         System.out.println("Kliknij na przycisk zaloguj");
     }
-   public void logowanie przypomnijHaslo() {
-        System.out.println("Kliknij na przycisk przypomnij haslo");
-    }
-   public void logowanie przypomnijHaslo2() {
-        System.out.println("Kliknij na przycisk przypomnij haslo2");
-    }
+   public void logowanie New() {
+        System.out.println("Podaj nazwę użytkownika Microsoft");
+        System.out.println("Podaj hasło");
+        System.out.println("Kliknij na przycisk zaloguj");
+   }
